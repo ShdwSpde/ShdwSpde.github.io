@@ -1,0 +1,48 @@
+html, body {
+  height: 100%;
+  width: 100%;
+}
+.main {
+  height: 50%;
+  border: 2px dotted grey;
+}
+
+.nav {
+  background: purple;
+}
+
+
+
+.mainPic img{
+  margin-top: 10%;
+  margin-left: 5px;
+  height: 80%;
+  width: 100%;
+}
+
+.part2 img{
+  margin-top: 10%;
+  margin-left: 5px;
+  height: 80%;
+  width: 100%;
+}
+
+.part2 {
+  height: 35%;
+  border: 2px solid grey;
+}
+
+.part2P {
+  height: 35%;
+  border: 2px dotted black;
+}
+
+.part2P img {
+  margin-top: 10%;
+  margin-left: 5px;
+  width: 100%;
+}
+
+h2 {
+  text-align: center;
+}
